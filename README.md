@@ -1,7 +1,7 @@
 # Telecom Customer Churn Analysis using Python Matplotlib
 ---
 
-## 1️⃣ Introduction
+## 1.Introduction
 
 Customer churn is a critical challenge for telecom and subscription-based businesses, as retaining existing customers is more cost-effective than acquiring new ones. Understanding the reasons behind customer churn helps organizations improve customer satisfaction and design effective retention strategies.
 
@@ -9,21 +9,18 @@ This project focuses on **Exploratory Data Analysis (EDA)** to analyze customer 
 
 ---
 
-## 2️⃣ Problem Statement
+## 2️.Problem Statement
 
 The telecom company is facing customer attrition.  
 The goal of this project is to:
 
 - Analyze customer data to understand churn behavior  
 - Identify factors contributing to customer churn  
-- Provide actionable insights to improve customer retention  
-
-This project does **not include machine learning or prediction models**.  
-It strictly focuses on **data understanding and insight generation**.
+- Provide actionable insights to improve customer retention
 
 ---
 
-## 3️⃣ Dataset Description
+## 3️.Dataset Description
 
 The dataset contains customer demographic details, service subscriptions, billing information, and churn status.
 
@@ -39,7 +36,7 @@ The dataset contains customer demographic details, service subscriptions, billin
 
 ---
 
-## 4️⃣ Tools & Technologies Used
+## 4️.Tools & Technologies Used
 
 - Python  
 - Pandas  
@@ -49,7 +46,7 @@ The dataset contains customer demographic details, service subscriptions, billin
 
 ---
 
-## 5️⃣ Data Understanding & Preparation
+## 5️.Data Understanding & Preparation
 
 - The dataset structure and data types were examined  
 - Numerical and categorical columns were identified  
@@ -58,7 +55,7 @@ The dataset contains customer demographic details, service subscriptions, billin
 
 ---
 
-## 6️⃣ Exploratory Data Analysis (EDA)
+## 6️.Exploratory Data Analysis (EDA)
 
 ### 6.1 Churn Distribution Analysis
 
@@ -174,7 +171,7 @@ Convenient payment methods reduce churn.
 
 ---
 
-## 7️⃣ Key Insights Summary
+## 7️.Key Insights Summary
 
 - Churn mainly occurs early in the customer lifecycle  
 - Month-to-month contracts pose high churn risk  
@@ -185,7 +182,7 @@ Convenient payment methods reduce churn.
 
 ---
 
-## 8️⃣ Business Recommendations
+## 8️.Business Recommendations
 
 - Improve onboarding experience in the first 3–6 months  
 - Encourage long-term contracts using incentives  
@@ -196,7 +193,7 @@ Convenient payment methods reduce churn.
 
 ---
 
-## 9️⃣ Conclusion
+## 9️.Conclusion
 
 This project demonstrates how exploratory data analysis can uncover important customer churn drivers. The analysis shows that tenure, contract type, pricing, and service add-ons play a significant role in customer retention. These insights can help businesses design effective strategies to reduce churn.
 
