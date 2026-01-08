@@ -1,4 +1,4 @@
-# Telecom Customer Churn Analysis using Python Matplotlib
+# Customer Churn Analysis using Python Matplotlib
 ---
 
 ## 1.Introduction
